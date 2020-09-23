@@ -1,0 +1,262 @@
+*{
+    font-family: 'Sawarabi Gothic', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    width: 100%;
+    height: 300px;
+    background-color: cadetblue;
+    background: rgb(227,24,24);
+    background: linear-gradient(90deg, rgba(227,24,24,1) 3%, rgba(225,213,37,1) 40%, rgba(228,197,51,1) 58%, rgba(252,69,156,1) 96%);
+}
+
+.second{
+    width: 100%;
+    height: 1100px;
+    background-color: cadetblue;
+    background: rgb(227,24,24);
+    background: linear-gradient(90deg, rgba(227,24,24,1) 3%, rgba(225,213,37,1) 40%, rgba(228,197,51,1) 58%, rgba(252,69,156,1) 96%);
+}
+
+.third{
+    width: 100%;
+    height: 1200px;
+    background-image: url(..//img/YSyEDz.jpg);
+}
+
+.ginke{
+    width:100%;
+    height: 1000px;
+    background: rgb(118,75,147);
+    background: linear-gradient(90deg, rgba(118,75,147,1) 0%, rgba(157,198,181,1) 50%, rgba(155,173,129,1) 100%);
+}
+
+.first h1{
+   text-align: center;
+}
+
+.first p{
+    padding:30px;
+}
+
+.second h1{
+    text-align: center;
+     
+}
+
+.ginke h1{
+    text-align: center;
+    color: rgb(34, 96, 124);
+    color: linear-gradient(90deg, rgba(113,125,62,1) 28%, rgba(52,122,73,1) 84%);
+}
+
+.frame1{
+    width: 300px;
+    height: 230px;
+    margin: 20px auto;
+    background-color:darkgoldenrod;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+
+.frame1 p{
+    line-height: 30px;
+}
+
+.frameimg1{
+    width: 300px;
+    height: 200px;
+    background-image: url(..//img/р.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.photo2{
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    background-color:darkgoldenrod;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.frameimg2{
+    width: 300px;
+    height: 200px;
+    background-image: url(..//img/rpi.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.text p{
+    position: absolute;
+    top: 380px;
+    left: 350px;
+    
+}
+
+.text2 p{
+    position: absolute;
+    top: 650px;
+    left: 350px;
+    
+}
+
+.video{
+    margin-top:30px  ;
+}
+
+
+.photo3{
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    background-color:rgb(107, 148, 136);
+    margin-top: 30px;
+    margin-left: 30px;
+    background: linear-gradient(90deg, rgba(99,126,101,1) 30%, rgba(84, 151, 78, 0.981) 74%);
+}
+
+.frameimg3{
+    width: 300px;
+    height: 200px;
+    background-image: url(..//img/m.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.third h1{
+    text-align: center;
+    color: mediumseagreen;
+
+}
+
+
+.photo4{
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    background-color:rgb(107, 148, 136);
+    margin-top: 30px;
+    margin-left: 30px;
+    background: linear-gradient(90deg, rgba(99,126,101,1) 30%, rgba(84, 151, 78, 0.981) 74%);
+}
+
+.frameimg4{
+    width: 300px;
+    height: 200px;
+    background-image: url(..//img/large.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.photo5{
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    background-color:rgb(107, 148, 136);
+    margin-top: 30px;
+    margin-left: 30px;
+    background: linear-gradient(90deg, rgba(99,126,101,1) 30%, rgba(84, 151, 78, 0.981) 74%);
+}
+
+.frameimg5{
+    width: 300px;
+    height: 200px;
+    background-image: url(..//img/imh.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.photo6{
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    background-color:rgb(107, 148, 136);
+    margin-top: 30px;
+    margin-left: 30px;
+    background: linear-gradient(90deg, rgba(99,126,101,1) 30%, rgba(84, 151, 78, 0.981) 74%);
+}
+
+.frameimg6{
+    width: 300px;
+    height: 200px;
+    background-image: url(..//img/0.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.btn{
+    width: 120px;
+    height: 80px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 1200px;
+    background: rgb(49,66,70);
+    background: linear-gradient(90deg, rgb(51, 54, 54) 41%, rgba(78,78,82,1) 73%);
+}
+
+.btn a{
+    display: block;
+    width: 50px;
+    height: 40px;
+    text-decoration: none;
+    color: darkgrey;
+    margin: 20px;
+
+}
+
+
+
+.photo7{
+    width: 70%;
+    margin: 0px auto;
+    height: 250px;
+    margin-top: 20px;
+
+    
+
+    -webkit-box-shadow: 10px 10px 32px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 32px 5px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 32px 5px rgba(0,0,0,0.75);
+}
+
+.frameimg7{
+    width: 950px;
+    height: 250px;
+    background-image:url(..//img/dert123.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.ginke p{
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+
+
+.photo8{
+    width: 70%;
+    margin: 0px auto;
+    height: 250px;
+    margin-top: 20px;
+
+    
+
+    -webkit-box-shadow: 10px 10px 32px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 32px 5px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 32px 5px rgba(0,0,0,0.75);
+}
+
+.frameimg8{
+    width: 950px;
+    height: 250px;
+    background-image:url(..//img/large\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+}
